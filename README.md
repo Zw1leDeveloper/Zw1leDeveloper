@@ -1,5 +1,10 @@
-### Hi there 👋
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there👋+I+am+MoonLord!)](https://git.io/typing-svg)
+___
+## <img src="https://i.ibb.co/QnF9GzW/python-logo.png" alt="python-logo" border="0" style="width:32px;height:32px; position:relative; top:7px;"> Python developer
+## <img src="https://i.ibb.co/2yv14wV/discord-logo.png" alt="discord-logo" border="0" style="width:32px;height:32px; position:relative; top:7px;"> Private bot developer
+___
+# I USE
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!--
 **Zw1leDeveloper/Zw1leDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
