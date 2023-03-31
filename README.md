@@ -10,6 +10,10 @@
          <br/>
          - 📫 How to reach me: <strong>MoonLord#6761</strong> on Discord -
          <br/>
+          - 🔭 I’m currently working on <strong>Miyata!</strong> -
+          <br/>
+          - 🏠 Current organization: <strong><a href = "https://github.com/MiyataBot"> MiyataBot<a/></strong> - 
+          <br/>
       </td>
       <td>
    </tr>
