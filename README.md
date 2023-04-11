@@ -4,7 +4,7 @@
      <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://i.ibb.co/mqQ22dv/84f3cf9c4feb85fd742ef975367118be.jpg" width="50%"/></a><br/>
+         <img align="center" src="https://i.ibb.co/T2ZLtZ1/photo-2023-04-08-21-09-36.png" width="75%"/></a><br/>
          <br/>
          - 🌱 I’m currently learning <strong>Python</strong> -
          <br/>
