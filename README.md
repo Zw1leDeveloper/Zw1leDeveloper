@@ -16,6 +16,7 @@
           <br/>
       </td>
       <td>
+      <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zw1leDeveloper&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
    </tr>
  </table>
 </p>
