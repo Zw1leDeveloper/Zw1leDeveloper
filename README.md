@@ -16,14 +16,12 @@
           <br/>
       </td>
       <td>
-      <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zw1leDeveloper&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs"></a></p>
+      <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-zw1ledeveloper.vercel.app/api?username=Zw1leDeveloper&theme=midnight-purple&show_icons=true" alt="MoonLord&#39;s GitHub stats"></a></p>
    </tr>
  </table>
 </p>
-
 <h2 align="center">I USE</h2>  
 <p><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&amp;logo=Reddit&amp;logoColor=white" alt="Reddit"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows"> <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"></p>
-
 <!--
 **Zw1leDeveloper/Zw1leDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
