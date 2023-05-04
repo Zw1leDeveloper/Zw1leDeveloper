@@ -15,8 +15,6 @@
           - 🏠 Current organization: <strong><a href = "https://github.com/MiyataBot"> MiyataBot<a/></strong> - 
           <br/>
       </td>
-      <td>
-      <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-zw1ledeveloper.vercel.app/api?username=Zw1leDeveloper&theme=midnight-purple&show_icons=true" alt="MoonLord&#39;s GitHub stats"></a></p>
    </tr>
  </table>
 </p>
